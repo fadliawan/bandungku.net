@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/fadliawan/bandungku.net/issues"
   },
-  "homepage": "https://github.com/fadliawan/bandungku.net"
+  "homepage": "https://github.com/fadliawan/bandungku.net",
+  "dependencies": {
+    "express": "4.12.2"
+  }
 }
