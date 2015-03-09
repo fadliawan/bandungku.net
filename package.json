@@ -1,0 +1,22 @@
+{
+  "name": "bandungku.net",
+  "version": "0.1.0",
+  "description": "Source code for bandungku.net",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fadliawan/bandungku.net"
+  },
+  "keywords": [
+    "bandung"
+  ],
+  "author": "Alan K Fadliawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fadliawan/bandungku.net/issues"
+  },
+  "homepage": "https://github.com/fadliawan/bandungku.net"
+}

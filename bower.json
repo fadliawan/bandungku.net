@@ -1,0 +1,25 @@
+{
+  "name": "bandungku.net",
+  "version": "0.1.0",
+  "homepage": "https://github.com/fadliawan/bandungku.net",
+  "authors": [
+    "Alan K Fadliawan <alan.k.fadliawan@gmail.com>"
+  ],
+  "description": "Source code for bandungku.net",
+  "main": "server.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "bandung"
+  ],
+  "license": "ISC",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
